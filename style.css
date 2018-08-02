@@ -1,0 +1,27 @@
+.pais{
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.pais__name{
+    width: 50%;
+}
+
+.pais__lat{
+    width: 20%;
+}
+
+.pais__lon{
+    width: 20%;
+}
+
+.pais__img{
+    width:10%;
+}
+
+.pais__img{
+    width: 50px;
+    height: 50px;
+}
